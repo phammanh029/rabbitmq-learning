@@ -5,4 +5,6 @@
 
 ## Structure
 - `publisher/` - contains code for publishing messages to RabbitMQ.
-- 
+- `consumer/` - contains code for consuming messages from RabbitMQ.
+- `docker-compose.yml` - Docker Compose file to set up RabbitMQ server.
+- `Readme.md` - this file.
